@@ -16,7 +16,7 @@
 		
 		"neutralHello": "外交界面问候语，中性",
 		"neutralLetsHearIt": ["请说。","您想说是什么？","您想表达什么？"],
-		"neutralNo": ["威尼斯拒绝接受这个提议。","非常抱歉，罗德岛不会接受这项提议。"],
+		"neutralNo": ["威尼斯拒绝接受这个提议。","非常抱歉，共和国子民不会接受这项提议。"],
 		"neutralYes": ["威尼斯愿意接受这个提议。","当然可以，这是个非常好的提议。"],
 		"hateHello": "有什么事情吗",
 		"hateLetsHearIt": ["说。","你想说什么？","你想表达什么？"],
@@ -26,8 +26,8 @@
 		"afterPeace": "和平为大家所愿",
 		"tradeRequest": "一场令人愉快的交易",
 
-		"outerColor": [0,0,0],
-		"innerColor": [0,0,0],
+		"outerColor": [0,0,255],
+		"innerColor": [0,255,255],
 		"uniques": ["[+1 Science, +1 Happiness, +1 Production] from all [Science] buildings", "[Great Scientist] is earned [50]% faster"],
 		"uniques": ["[+1 Happiness, +1 Production] from all [Science] buildings", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["威尼斯","罗马涅","维罗纳","帕多瓦","达尔马提亚","克罗地亚","塞浦路斯","克里特",""]
