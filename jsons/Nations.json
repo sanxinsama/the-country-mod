@@ -3,7 +3,7 @@
                 "name": "威尼斯共和国",
 		"leaderName": "乌尔索斯",
 		"adjective": ["人民"],
-		"startBias": ["coast"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "入场介绍。",
