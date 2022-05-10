@@ -1,3 +1,5 @@
+［
+        ｛
                 "name": "威尼斯共和国",
 		"leaderName": "乌尔索斯",
 		"adjective": ["人民"],
@@ -29,3 +31,5 @@
 		"uniques": ["[+1 Science, +1 Happiness, +1 Production] from all [Science] buildings", "[Great Scientist] is earned [50]% faster"],
 		"uniques": ["[+1 Happiness, +1 Production] from all [Science] buildings", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["威尼斯","罗马涅","维罗纳","帕多瓦","达尔马提亚","克罗地亚","塞浦路斯","克里特",""]
+        ｝   
+］       
