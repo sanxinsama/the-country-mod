@@ -1,13 +1,13 @@
 [
         {
                 "name": "威尼斯共和国",
-		"leaderName": "乌尔索斯",
+		"leaderName":"恩里科·丹多洛",
 		"adjective": ["人民"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "入场介绍。",
-		"startIntroPart2": "未编辑",
+		"startIntroPart1": "伟大的恩里科·丹多洛，您是威尼斯最耀眼的执政官。你将世界渴望之城君士坦丁堡付之一炬，你带领威尼斯人民取得地中海商业霸权，带领威尼斯共和国走向繁荣。",
+		"startIntroPart2": "啊，伟大的执政官，天主时刻庇护在你身旁，公民们盼望着恢复往日的荣光，重新建立海上商业霸权，将阻碍威尼斯发展的敌人一一扫除。现在，开始你对商业的征服战争，将天主福音播撒到世界各地吧。",
 		
 		"declaringWar": "吾将代表十字军将你消灭在历史的长河中。",
 		"attacked": "威尼斯人热爱财富，必要时会出动一切力量保护它。",
