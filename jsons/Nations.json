@@ -26,7 +26,7 @@
 		"afterPeace": "我们并非洪水猛兽",
 		"tradeRequest": "一场公平的交易，令人愉悦",
 
-		"outerColor": [0,255,255],
+		"outerColor": [102,204,255],
 		"innerColor": [0,255,204],
 		"uniques": ["[+1 Science, +1 Happiness, +1 Production] from all [Science] buildings", "[Great Scientist] is earned [50]% faster"],
 		"uniques": ["[+1 Happiness, +1 Production] from all [Science] buildings", "[Great Scientist] is earned [50]% faster"],
