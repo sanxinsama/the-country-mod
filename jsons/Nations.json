@@ -28,7 +28,7 @@
 
 		"outerColor": [102,204,255],
 		"innerColor": [0,255,204],
-		"uniques": ["[+3 Gold, +3 Culture] from each Trade Route","[Enables] embarkation for land units starting from the [Ancient] era","Gain a free [Harbor][in all coastal cities]"],
+		"uniques": ["[+3 Gold, +3 Culture] from each Trade Route","[Enables] embarkation for land units starting from the [Ancient] era","Gain a free [Harbor]<[in all coastal cities]>"],
 		"cities": ["威尼斯","罗马涅","维罗纳","帕多瓦","罗德岛","克罗地亚","塞浦路斯","克里特"],
         }
 ] 
