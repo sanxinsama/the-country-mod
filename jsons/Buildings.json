@@ -2,13 +2,13 @@
         {
 		"name": "威尼斯军械所",
 		"uniqueTo": "威尼斯",
-		"culture": 5,
+		"xpForNewUnits": 45,
 		"replaces": "Armory",
-	  	"cost": 100,
+	  	"cost": 450,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"culture": 33},
-	  	"greatPersonPoints": {"Great Artist": 1},
+		"percentStatBonus": {"production": 10},
+	  	"greatPersonPoints": {"Great Engineer": 1},
 		"requiredTech": "Steel",
 		"requiredBuilding": "Barracks"
         }
