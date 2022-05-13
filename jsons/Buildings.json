@@ -2,7 +2,7 @@
         {
 		"name": "威尼斯军械所",
 		"uniqueTo": "威尼斯",
-		"xpForNewUnits":45,
+		"uniques":"New [Military] units start with 45 [Experience] in this cities",
 		"replaces": "Armory",
                 "maintenance": 3,
 	  	"cost": 400,
