@@ -62,7 +62,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,255,204],
                 "uniqueName":"铁与血的荣耀",
-		"uniques": ["Great General provides double combat bonus","[+30]% Production when constructing [Military] units [in all cities]"],
+		"uniques": ["Great General provides double combat bonus","[+30]% Production when constructing [Military] units [in all cities]",""[+20]% Strength <vs [Barbarian] units>","[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["柏林"],
         },
 ] 
