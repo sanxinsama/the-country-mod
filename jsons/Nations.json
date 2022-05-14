@@ -29,7 +29,40 @@
 		"outerColor": [102,204,255],
 		"innerColor": [0,255,204],
                 "uniqueName":"地中海霸权",
-		"uniques": ["[+6 Gold] from each Trade Route","[Enables embarkation for land units] [starting from the <Ancient era>]","Gain a free [Harbor] [in all coastal cities]"],
+		"uniques": ["[+6 Gold] from each Trade Route",""[Enables embarkation for land units] starting from the [Ancient era]","Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["威尼斯","罗马涅","维罗纳","帕多瓦","罗德岛","克罗地亚","塞浦路斯","克里特"],
-        }
-] 
+        },
+        {
+                "name": "普鲁士",
+		"leaderName":"弗里德里希·威廉三世",
+		"adjective": ["骑士团"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "伟大的恩里科·丹多洛，您是威尼斯最耀眼的执政官。你将世界渴望之城君士坦丁堡付之一炬，你带领威尼斯人民取得地中海商业霸权，带领威尼斯共和国走向繁荣。",
+		"startIntroPart2": "啊，伟大的执政官，天主时刻庇护在你身旁，公民们盼望着恢复往日的荣光，重新建立海上商业霸权，将阻碍威尼斯发展的敌人一一扫除。现在，开始你对商业的征服战争，将天主福音播撒到世界各地吧。",
+		
+		"declaringWar": "吾将代表十字军将你消灭在历史的长河中。",
+		"attacked": "威尼斯人热爱财富，必要时会出动一切力量保护它。",
+		"defeated": "所以…为什么是个人都想吊死我…？。",
+		"introduction": "很高兴见到你，随威尼斯一同感受天主的恩赐吧。",
+		
+		"neutralHello": "我们可以先谈谈钱，再谈些别的。",
+		"neutralLetsHearIt": ["请说。","您想说是什么？","您想表达什么？"],
+		"neutralNo": ["威尼斯拒绝接受这个提议。","非常抱歉，共和国子民不会接受这项提议。"],
+		"neutralYes": ["威尼斯愿意接受这个提议。","当然可以，这是个非常好的提议。"],
+		"hateHello": "财富取之于海洋，危险亦来自海上。",
+		"hateLetsHearIt": ["说。","你想说什么？","你想表达什么？"],
+		"hateNo": ["共和国子民不可能接受这个提议。","你觉得我们可能会同意吗？","这并不是次公平的交易"],
+		"hateYes": ["是个好主意","可以。","很好....."],
+		
+		"afterPeace": "我们并非洪水猛兽",
+		"tradeRequest": "一场公平的交易，令人愉悦",
+
+		"outerColor": [102,204,255],
+		"innerColor": [0,255,204],
+                "uniqueName":"铁与血的荣耀",
+		"uniques": ["+[15]% combat bonus for units fighting in [Friendly Land]","["+[50]% Production when constructing [Military] units [in all cities]","Gain a free [] [in all coastal cities]"],
+		"cities": [],
+        },
+]  
