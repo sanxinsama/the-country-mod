@@ -62,7 +62,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,255,204],
                 "uniqueName":"铁与血的荣耀",
-		"uniques": ["+[15]% combat bonus for units fighting in [Friendly Land]","["+[50]% Production when constructing [Military] units [in all cities]","Gain a free [Barracks] [in all coastal cities]"],
+		"uniques": ["+[15]% combat bonus for units fighting in [Friendly Land]"],
 		"cities": ["柏林"],
         },
 ] 
