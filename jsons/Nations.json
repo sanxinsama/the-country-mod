@@ -36,7 +36,6 @@
                 "name": "普鲁士",
 		"leaderName":"弗里德里希·威廉三世",
 		"adjective": ["骑士团"],
-		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "无。",
