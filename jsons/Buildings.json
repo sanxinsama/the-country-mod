@@ -2,7 +2,7 @@
         {
 		"name": "威尼斯军械所",
 		"uniqueTo": "威尼斯",
-                "xpForNewUnits":30,		
+                "XpForNewUnits":30,		
 		"replaces": "Armory",
                 "maintenance": 2,
 	  	"cost": 300,
