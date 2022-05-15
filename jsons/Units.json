@@ -1,6 +1,6 @@
 [
 	{
-		"name": "普鲁士军团",
+		"name": "普鲁士龙骑兵",
 		"replaces": "Knight",
 		"uniqueTo": "普鲁士",
 		"unitType": "Mounted",
