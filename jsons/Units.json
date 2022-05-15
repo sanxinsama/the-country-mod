@@ -1,0 +1,15 @@
+[
+	{
+		"name": "普鲁士军团",
+		"replaces": "Knight",
+		"uniqueTo": "普鲁士",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 35,
+		"cost": 200,
+		"requiredTech": "Chivalry",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities>"],
+		"promotions": ["Morale", "Charge"],
+		"upgradesTo": "Landship",
+	},
+]
