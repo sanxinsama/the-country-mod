@@ -59,10 +59,10 @@
 		"afterPeace": "我们并非洪水猛兽",
 		"tradeRequest": "一场公平的交易，令人愉悦",
 
-		"outerColor": [255,255,255],
-		"innerColor": [0,255,204],
+		"outerColor": [150,150,150],
+		"innerColor": [60,60,60],
                 "uniqueName":"铁与血的荣耀",
 		"uniques": ["Great General provides double combat bonus","[+30]% Production when constructing [Military] units [in all cities]","[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["柏林"],
-        },
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen","Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden","Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen","Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen","Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg","Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+        }, 
 ] 
