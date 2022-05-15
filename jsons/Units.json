@@ -8,8 +8,9 @@
 		"strength": 25,
 		"cost": 180,
 		"requiredTech": "Chivalry",
+                "requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities>"],
-		"promotions": ["Morale", "Charge","Great Generals II"],
+		"promotions": ["Morale","Great Generals II"],
 		"upgradesTo": "Landship",
 	},
 ]
