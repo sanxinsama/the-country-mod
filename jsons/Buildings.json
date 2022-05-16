@@ -1,10 +1,13 @@
 [    
         {
-		"name": "总督府",
-		"uniqueTo": "威尼斯",		
-		"replaces": "Palace",
-                "maintenance": 0,
-	  	"cost": 0,
-		"hurryCostModifier": 25,
-        }
+                "name": "总督宫",
+		"isNationalWonder": true,
+		"production": 5,
+		"science": 2,
+		"gold": 8,
+		"culture": 2,	
+          	"cost": 5,		
+                "uniques": ["Indicates the capital city"]
+                "replaces":"Palace",
+        },
 ]
