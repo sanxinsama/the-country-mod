@@ -13,4 +13,17 @@
 		"promotions": ["Morale","Great Generals II"],
 		"upgradesTo": "Landship",
 	},
+        {
+		"name": "加莱塞战舰",
+		"replaces": "Caravel",
+		"uniqueTo": "威尼斯",
+		"unitType": "WaterMelee",
+		"movement": 5,
+		"strength": 25,
+		"cost": 180,
+		"requiredTech": "Astronomy",
+		"uniques": ["May withdraw before melee [90]%"]
+		"promotions": ["Boarding Party I","Coastal Raider I"],
+		"upgradesTo": "Caravel",
+	},
 ]
