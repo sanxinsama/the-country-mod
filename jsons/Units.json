@@ -23,7 +23,7 @@
 		"cost": 100,
 		"requiredTech": "Astronomy",
 		"uniques": ["May withdraw before melee ([30]%)"]
-		"promotions": ["Boarding Party I","Coastal Raider I"],
+		"promotions": ["Boarding Party I"],
 		"upgradesTo": "Caravel",
 	},
 ]
