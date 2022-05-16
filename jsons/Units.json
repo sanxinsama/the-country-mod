@@ -18,9 +18,9 @@
 		"replaces": "Caravel",
 		"uniqueTo": "威尼斯",
 		"unitType": "WaterMelee",
-		"movement": 5,
-		"strength": 25,
-		"cost": 180,
+		"movement": 4,
+		"strength": 30,
+		"cost": 100,
 		"requiredTech": "Astronomy",
 		"uniques": ["May withdraw before melee ([30]%)"]
 		"promotions": ["Boarding Party I","Coastal Raider I"],
