@@ -22,7 +22,7 @@
 		"strength": 25,
 		"cost": 180,
 		"requiredTech": "Astronomy",
-		"uniques": ["May withdraw before melee ([90]%)"]
+		"uniques": ["May withdraw before melee ([30]%)"]
 		"promotions": ["Boarding Party I","Coastal Raider I"],
 		"upgradesTo": "Caravel",
 	},
