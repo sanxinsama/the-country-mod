@@ -36,7 +36,7 @@
 		"requiredTech": "Steel",
                 "uniques":["Can move immediately once bought","No movement cost to pillage"],
 		"promotions": ["Amphibious"],
-                "upgradesTo": "Musketeer",
+                "upgradesTo": "Musketman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit",
 	},
