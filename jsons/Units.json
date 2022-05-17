@@ -23,7 +23,7 @@
 		"cost": 120,
 		"requiredTech": "Astronomy",
 		"promotions": ["Boarding Party I"],
-		"upgradesTo": "Caravel",
+		"upgradesTo": "Ironclad",
 	},
         {
 	        "name": "威尼斯雇佣兵",
