@@ -5,9 +5,8 @@
 		"production": 3,
 		"science": 3,
 		"gold": 5,
-		"culture": 1,	
+		"culture": 3,	
           	"cost": 1,
-		"happiness":2
                 "cityStrength": 5
                 "uniques": ["Indicates the capital city"],
                 "uniqueTo":"威尼斯"
