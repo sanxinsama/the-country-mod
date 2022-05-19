@@ -7,16 +7,17 @@
 		"gold": 5,
 		"culture": 1,	
           	"cost": 1,
-                "cityStrength": 5
-                "uniques": ["Indicates the capital city","[+15]% Production when constructing [Military] units [in this city]"],
-                "uniqueTo":"威尼斯"
+                "cityStrength": 5,
+                "greatPersonPoints": {"Great Merchant": 2},
+                "uniques": ["Indicates the capital city"],
+                "uniqueTo":"威尼斯",
                 "replaces":"Palace",
         },
         {
          	"name": "阿房宫",
-		"culture": 1,
+		"culture": 4,
 		"isWonder": true,
-		"uniques":["[+2 Happiness] from each type of [luxury resource]","Triples Gold given to enemy if city is captured","Destroyed when the city is captured"],
+		"uniques":["[+15]% Production when constructing [All] wonders [in all cities]","Doubles Gold given to enemy if city is captured","Destroyed when the city is captured"],
 		"requiredTech": "Construction",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"},
 ]
