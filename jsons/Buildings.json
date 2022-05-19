@@ -14,9 +14,9 @@
         },
         {
          	"name": "阿房宫",
-		"culture": 3,
+		"culture": 1,
 		"isWonder": true,
-		"uniques":["Can spend Gold to annex or puppet a City-State that has been your ally for [9] turns."],
-		"requiredTech": "Civil Service",
+		"uniques":["[+50]% [Golden Age] length","Triple [Gold] given to enemy if city is captured","DestroyEd when the city is captured"],
+		"requiredTech": "Construction",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"},
 ]
