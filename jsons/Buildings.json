@@ -16,7 +16,7 @@
          	"name": "阿房宫",
 		"culture": 1,
 		"isWonder": true,
-		"uniques":["+2 Happiness from each type of luxury resource","Double Gold given to enemy if city is captured","Destroyed when the city is captured"],
+		"uniques":["[+2 Happiness] from each type of luxury resource","Doubles Gold given to enemy if city is captured","Destroyed when the city is captured"],
 		"requiredTech": "Construction",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"},
 ]
