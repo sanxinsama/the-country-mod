@@ -12,4 +12,11 @@
                 "uniqueTo":"威尼斯"
                 "replaces":"Palace",
         },
+        {
+         	"name": "阿房宫",
+		"culture": 3,
+		"isWonder": true,
+		"uniques":["Can spend Gold to annex or puppet a City-State that has been your ally for [9] turns."],
+		"requiredTech": "Civil Service",
+		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"},
 ]
