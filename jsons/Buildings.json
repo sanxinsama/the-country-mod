@@ -17,7 +17,7 @@
          	"name": "阿房宫",
 		"culture": 4,
 		"isWonder": true,
-		"uniques":["[+50]% Production when constructing [All] wonders [in all cities]","Doubles Gold given to enemy if city is captured","Destroyed when the city is captured"],
+		"uniques":["[+20]% Production when constructing [All] wonders [in all cities]","Doubles Gold given to enemy if city is captured","Destroyed when the city is captured"],
 		"requiredTech": "Construction",
 		"quote": "'骊山四顾，阿房一炬，当时奢侈今何处？只见草萧疏，水萦纡。至今遗恨迷烟树。列国周齐秦汉楚，赢，都变做了土；输，都变做了土。'－－《山坡羊·骊山怀古》"},
 ]
