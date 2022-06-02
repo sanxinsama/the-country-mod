@@ -34,12 +34,12 @@
         },
         {
                 "name": "普鲁士",
-		"leaderName":"弗里德里希·威廉三世",
+		"leaderName":"腓特烈二世",
 		"adjective": ["骑士团"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "无。",
-		"startIntroPart2": "无。",
+		"startIntroPart1": "最伟大的腓特烈大帝，普鲁士人民的公仆，最勇猛的将军，万众青睐的军事天才，你带领普鲁士人民走向富强，让普鲁士军队令欧洲大陆闻之胆寒，你用机智的手段和勇往直前的战争夺取了极其富饶的西里西亚并保证它不再被夺走。",
+		"startIntroPart2": "现在，黑鹰仍羽翼不满，但普鲁士人民坚信，您能再创普鲁士曾经的辉煌，让世界为之胆寒。将刀剑拾起，开始征服战争吧！。",
 		
 		"declaringWar": "我们需要阳光下的土地！",
 		"attacked": "普鲁士的利刃将劈碎你卑劣的灵魂！",
@@ -70,8 +70,8 @@
 		"adjective": ["罗马次子"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "无。",
-		"startIntroPart2": "无。",
+		"startIntroPart1": "伟大的西罗马皇帝，野蛮人的征服者，西班牙的收复者，王朝的中兴者。你带领西罗马帝国收复失地，你带领罗马人民一次次击溃蛮人军团，你带领西罗马走向了光明的彼岸。。",
+		"startIntroPart2": "然而，在你死后，国家局势动荡不安，野蛮人仍猖獗的活动在罗马各处，国家分崩离析，而你却无能为力。现在你将重新执掌这个伟大的古帝国，带领西罗马人民光复那曾经的光辉景象。",
 		
 		"declaringWar": "光复罗马帝国之荣光，吾辈义不容辞！",
 		"attacked": "罗马人民不畏惧挑战！",
@@ -102,8 +102,8 @@
 		"adjective": ["海盗共和国"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "无。",
-		"startIntroPart2": "无。",
+		"startIntroPart1": "无边的海洋上，各国各式商船有条不紊的穿行在加勒比的海洋，小小的船舱载来了价值连城的奴隶，又带走了成吨成吨的黄金。",
+		"startIntroPart2": "现在，身为海盗的你，本杰明·霍尼戈尔顿，你将在加勒比建立海上霸权，将各国肮脏的财富取到手中，与弟兄们一起享受无边的繁华。",
 		
 		"declaringWar": "财富！哈哈哈！",
 		"attacked": "清剿我们？你也得看看自己几斤几两",
@@ -122,8 +122,8 @@
 		"afterPeace": "在此期间海盗将保护你的贸易，你应该感到荣幸",
 		"tradeRequest": "一场公平的交易，令人愉悦",
 
-		"outerColor": [53,0,87],
-		"innerColor": [238,201,9],
+		"outerColor": [255,0,0],
+		"innerColor": [0,0,0],
                 "uniqueName":"海盗的黄金时期",
 		"uniques": ["[Water] units gain the [Coastal Raider II] promotion","No movement cost to pillage <for [Infantry] units>"],
 		"cities": ["拿骚","牙买加","托尔图加","哈瓦那","多美尼加","海地","巴巴多斯","波多黎各"],
