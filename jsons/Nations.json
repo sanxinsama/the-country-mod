@@ -64,4 +64,36 @@
 		"uniques": ["Great General provides double combat bonus","[+30]% Production when constructing [Military] units [in all cities]","[+33]% XP gained from combat <for [Military] units>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen","Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden","Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen","Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen","Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg","Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
         }, 
+        {
+                "name": "西罗马",
+		"leaderName":"马约里安",
+		"adjective": ["罗马次子"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "无。",
+		"startIntroPart2": "无。",
+		
+		"declaringWar": "光复罗马帝国之荣光，吾辈义不容辞！",
+		"attacked": "罗马人民不畏惧挑战！",
+		"defeated": "罗马的光辉岁月…已经一去不复返了吗…",
+		"introduction": "条条大路通罗马，欢迎来到这里",
+		
+		"neutralHello": "罗马的历代皇帝都庇护着罗马的子民。",
+		"neutralLetsHearIt": ["说吧。","阁下想说什么？","阁下想表达什么？"],
+		"neutralNo": ["抱歉，罗马不会接受这个提议。","抱歉，罗马拒绝接受这项提议。"],
+		"neutralYes": ["我们愿意接受这个提议。","当然可以，这是个非常好的提议。"],
+		"hateHello": "野蛮人，罗马不欢迎你。",
+		"hateLetsHearIt": ["说吧，虽然我们很可能不会同意。","你在狗叫什么？"],
+		"hateNo": ["罗马不可能接受这个提议。","你觉得我们可能会同意吗？","这并不是次公平的交易"],
+		"hateYes": ["这也许是个好主意","这个结果对我们都好。","很好....."],
+		
+		"afterPeace": "和平对于任何人都很重要，不只是罗马",
+		"tradeRequest": "一场公平的交易，令人愉悦",
+
+		"outerColor": [150,150,150],
+		"innerColor": [60,60,60],
+                "uniqueName":"帝国的悲哀",
+		"uniques": ["[-33]% Strength <vs [Barbarian] units>", "[+20]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
+		"cities": ["米兰","Roma","拉文纳","热那亚","那不勒斯","伊比利亚","高卢","英格兰"],
+        }, 
 ] 
