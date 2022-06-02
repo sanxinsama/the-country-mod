@@ -91,9 +91,9 @@
 		"tradeRequest": "一场公平的交易，令人愉悦",
 
 		"outerColor": [53,0,87],
-		"innerColor": [238,201,9],
+		"innerColor": [204,68,119],
                 "uniqueName":"西罗不朽",
-		"uniques": ["[-33]% Strength <vs [Barbarian] units>", "[+20]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
+		"uniques": ["[-33]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
 		"cities": ["米兰","Rome","拉文纳","热那亚","那不勒斯","伊比利亚","高卢","英格兰"],
         }, 
         {
