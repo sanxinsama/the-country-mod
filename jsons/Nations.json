@@ -93,7 +93,7 @@
 		"outerColor": [53,0,87],
 		"innerColor": [204,68,119],
                 "uniqueName":"西罗不朽",
-		"uniques": ["[-33]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
+		"uniques": ["[-33]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","[+1 Happiness, +2 Culture] from all [Culture] buildings","["[+5]% Production from all [Culture] buildings"],
 		"cities": ["米兰","Rome","拉文纳","热那亚","那不勒斯","伊比利亚","高卢","英格兰"],
         }, 
         {
@@ -126,7 +126,7 @@
 		"outerColor": [255,0,0],
 		"innerColor": [0,0,0],
                 "uniqueName":"海盗的黄金时期",
-		"uniques": ["[Water] units gain the [Coastal Raider II] promotion","No movement cost to pillage"],
+		"uniques": ["[Water] units gain the [Coastal Raider I Coastal Raider II] promotion","No movement cost to pillage"],
 		"cities": ["拿骚","牙买加","托尔图加","哈瓦那","多美尼加","海地","巴巴多斯","波多黎各"],
         }, 
 ] 
