@@ -90,10 +90,42 @@
 		"afterPeace": "和平对于任何人都很重要，不只是罗马",
 		"tradeRequest": "一场公平的交易，令人愉悦",
 
-		"outerColor": [150,150,150],
-		"innerColor": [60,60,60],
-                "uniqueName":"帝国的悲哀",
+		"outerColor": [53,0,87],
+		"innerColor": [238,201,9],
+                "uniqueName":"西罗不朽",
 		"uniques": ["[-33]% Strength <vs [Barbarian] units>", "[+20]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
-		"cities": ["米兰","Roma","拉文纳","热那亚","那不勒斯","伊比利亚","高卢","英格兰"],
+		"cities": ["米兰","Rome","拉文纳","热那亚","那不勒斯","伊比利亚","高卢","英格兰"],
+        }, 
+        {
+                "name": "加勒比",
+		"leaderName":"本杰明·霍尼戈尔顿",
+		"adjective": ["海盗共和国"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "无。",
+		"startIntroPart2": "无。",
+		
+		"declaringWar": "财富！哈哈哈！",
+		"attacked": "清剿我们？你也得看看自己几斤几两",
+		"defeated": "海洋上的财富…都应该是我们的…不！",
+		"introduction": "小心点，我们海盗可不和你讲体面",
+		
+		"neutralHello": "新的聚落，新的财富！",
+		"neutralLetsHearIt": ["说吧。","你想说什么？","你想表达什么？"],
+		"neutralNo": ["你在狗叫什么。","我们拒绝"],
+		"neutralYes": ["当然可以，这是个非常好的提议。"],
+		"hateHello": "明天在我们的船舶旁，可能会有几艘和你们样式相同的船，谁知道为什么呢？",
+		"hateLetsHearIt": ["说，我的大刀可不会和你犹豫","嗯？你大声地说一遍，让弟兄们听听！"],
+		"hateNo": ["海盗不可能接受这个提议。","你觉得我们可能会同意吗？","这并不是次公平的交易，还是抢来得实在"],
+		"hateYes": ["这也许是个好主意","这个结果对我们都好。","很好....."],
+		
+		"afterPeace": "在此期间海盗将保护你的贸易，你应该感到荣幸",
+		"tradeRequest": "一场公平的交易，令人愉悦",
+
+		"outerColor": [53,0,87],
+		"innerColor": [238,201,9],
+                "uniqueName":"海盗的黄金时期",
+		"uniques": ["[Water] units gain the [Coastal Raider II] promotion","No movement cost to pillage <for [Infantry] units>"],
+		"cities": ["拿骚","牙买加","托尔图加","哈瓦那","多美尼加","海地","巴巴多斯","波多黎各"],
         }, 
 ] 
