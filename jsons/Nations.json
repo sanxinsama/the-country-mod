@@ -100,6 +100,7 @@
                 "name": "加勒比",
 		"leaderName":"本杰明·霍尼戈尔顿",
 		"adjective": ["海盗共和国"],
+                "startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "无边的海洋上，各国各式商船有条不紊的穿行在加勒比的海洋，小小的船舱载来了价值连城的奴隶，又带走了成吨成吨的黄金。",
@@ -125,7 +126,7 @@
 		"outerColor": [255,0,0],
 		"innerColor": [0,0,0],
                 "uniqueName":"海盗的黄金时期",
-		"uniques": ["[Water] units gain the [Coastal Raider II] promotion","No movement cost to pillage <for [Infantry] units>"],
+		"uniques": ["[Water] units gain the [Coastal Raider II] promotion","No movement cost to pillage"],
 		"cities": ["拿骚","牙买加","托尔图加","哈瓦那","多美尼加","海地","巴巴多斯","波多黎各"],
         }, 
 ] 
