@@ -93,7 +93,7 @@
 		"outerColor": [53,0,87],
 		"innerColor": [204,68,119],
                 "uniqueName":"西罗不朽",
-		"uniques": ["[-33]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","[+1 Happiness, +2 Culture] from all [Culture] buildings","["[-15]% [Culture] cost of adopting new [Policies]"],
+		"uniques": ["[-33]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","[+1 Happiness, +2 Culture] from all [Culture] buildings","[-15]% [Culture] cost of adopting new [Policies]"],
 		"cities": ["米兰","Rome","拉文纳","热那亚","那不勒斯","伊比利亚","高卢","英格兰"],
         }, 
         {
