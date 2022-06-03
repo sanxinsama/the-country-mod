@@ -126,7 +126,7 @@
 		"outerColor": [255,0,0],
 		"innerColor": [0,0,0],
                 "uniqueName":"海盗的黄金时期",
-		"uniques": ["[Water] units gain the [Coastal Raider I Coastal Raider II] promotion","No movement cost to pillage"],
+		"uniques": ["[Water] units gain the [Coastal Raider II] promotion","No movement cost to pillage"],
 		"cities": ["拿骚","牙买加","托尔图加","哈瓦那","多美尼加","海地","巴巴多斯","波多黎各"],
         }, 
 ] 
