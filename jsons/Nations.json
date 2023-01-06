@@ -132,7 +132,7 @@
         {
                 "name": "汪洋共和国",
 		"leaderName":"三新",
-		"adjective": ["海盗共和国"],
+		"adjective": ["学士与医师的殿堂"],
                 "startBias": ["Coast"],
 		"preferredVictoryType": "Science",
 		
@@ -159,7 +159,7 @@
 		"outerColor": [102,204,255],
 		"innerColor": [255,0,0],
                 "uniqueName":"加勒比海新星",
-		"uniques": [""],
+		"uniques": ["[Great Scientist] is earned [75]% faster when you discover [Education]","[+1 Science,+2 happiness] from every [Hospital,University]",
 		"cities": ["拿骚","牙买加","托尔图加","哈瓦那","多美尼加","海地","巴巴多斯","波多黎各"],
         }, 
 ]
