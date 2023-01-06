@@ -156,9 +156,9 @@
 		"afterPeace": "和平，令人向往",
 		"tradeRequest": "一场公平的交易，令人向往",
 
-		"outerColor": [255,0,0],
-		"innerColor": [0,0,0],
-                "uniqueName":"海盗的黄金时期",
+		"outerColor": [102,204,255],
+		"innerColor": [255,0,0],
+                "uniqueName":"加勒比海新星",
 		"uniques": [""],
 		"cities": ["拿骚","牙买加","托尔图加","哈瓦那","多美尼加","海地","巴巴多斯","波多黎各"],
         }, 
