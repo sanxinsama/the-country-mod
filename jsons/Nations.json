@@ -159,7 +159,7 @@
 		"outerColor": [102,204,255],
 		"innerColor": [255,0,0],
                 "uniqueName":"加勒比海新星",
-		"uniques": ["[Great Scientist] is earned [75]% faster when you discover [Education]","[+3 Science] from every [University]"],
+		"uniques": ["[Great Scientist] is earned [75]% faster when you discover [Education]"],
 		"cities": ["拿骚","牙买加","托尔图加","哈瓦那","多美尼加","海地","巴巴多斯","波多黎各"],
         },
 ]
