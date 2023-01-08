@@ -28,9 +28,10 @@
 		"gold": 0,
 		"culture": 5,	
           	"cost": 0,
+                "requiredTech": "Education",
                 "cityStrength": 0,
                 "greatPersonPoints": {"Great Scientist": 2},
-                "uniques": ["Indicates the capital city","[Great Scientist] is earned [50]% faster"],
+                "uniques": ["[Great Scientist] is earned [50]% faster"],
                 "uniqueTo":"汪洋共和国",
 },      
 {
